@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0242-valid-anagram](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
