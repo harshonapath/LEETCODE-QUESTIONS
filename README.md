@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
