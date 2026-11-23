@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0155-min-stack) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Combinatorics
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 ## Binary Search
 |  |
 | ------- |
