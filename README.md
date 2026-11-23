@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -25,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
@@ -180,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
