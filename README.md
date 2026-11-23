@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0206-reverse-linked-list) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0344-reverse-string) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Combinatorics
